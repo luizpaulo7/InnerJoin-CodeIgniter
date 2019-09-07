@@ -1,0 +1,37 @@
+table i{
+    cursor: pointer;
+}
+table .iconEdit{
+    color: #1976D2;
+}
+
+table .iconDelete{
+    color: #D32F2F;
+}
+
+table .iconDetails{
+    color: #009688;
+}
+
+.modal .iconCloseModal{
+    color: #D32F2F;
+}
+.modal .details-aluno label{
+    font-weight: bold;
+}
+.modal .details-curso .titulo{
+    width: 50%;
+    /* font-weight: bold; */
+    border-radius: 0px;
+}
+.modal .details-curso .descricao{
+    width: 50%;
+    /* font-weight: bold; */
+    border-radius: 0px;
+}
+.modal .details-curso .full{
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 0px;
+}
