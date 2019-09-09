@@ -1,4 +1,10 @@
 <div class="container border mt-5 p-5">
+    <div>
+        <?php echo $aluno->idAluno; ?>
+        <?php echo $aluno->nome; ?>
+        <?php echo $aluno->email; ?>
+        <?php echo $aluno->dtNascimento; ?>
+    </div>
     <h1>LISTA DE ALUNOS</h1>
     <table class="table table-sm table-striped">
         <thead>
